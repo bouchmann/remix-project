@@ -17,7 +17,7 @@ function absolutePath (path: string, sharedFolder:string): string {
 }
 
 /**
- * returns a true if child is sub-directory of parent.
+ * returns true if child is a sub-directory of parent.
  *
  * @param {String} parent - path to parent directory
  * @param {String} child - child path
